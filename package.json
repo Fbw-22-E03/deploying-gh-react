@@ -1,7 +1,7 @@
 {
   "name": "gh-pages-deploy",
   "version": "0.1.0",
-  "homepage": "http://Fbw-22-E03/",
+  "homepage": "http://Fbw-22-E03.github.io/deploying-gh-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
