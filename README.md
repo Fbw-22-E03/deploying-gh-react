@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+
+# This app is deployed with gh-pages 
 ## to deploy with github pages :
  # setup your homepage:
 ` "homepage": "http://Fbw-22-E03.github.io/deploying-gh-react" `
@@ -12,6 +14,8 @@
 # connect your app to the github 
 # install gh-pages 
 # npm i gh-pages
+
+========================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
